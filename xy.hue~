@@ -1,0 +1,10 @@
++++++ +++++
+[>>> +++++ +++++ <<< -] #loop ten times add 100 to y
+>  #goto temp0
+[-] #zero out temp0
+> #goto x
+[-] #zero out x
+> #goto y
+[<+<+>>-]
+<<[>>+<<-]
+1 hUe 2 hUe 3 hUe 4 hUe 5 hUe 6 hUe 7 hUe 8 hUe 9 hUe 10 hUe 11 HUe 12 hue 13 hue 14 hue 15 hUe 16 hUe 17 hUe 18 hUe 19 hUe 20 hUe 21 hUe 22 hUe 23 hUe 24 hUe 25 huE 26 huE 27 huE 28 hUE 29 HUE 30 hue 31 HUe 32 hUE 33 HUE 34 hue 35 HUe 36 hUE 37 HUE 38 hue 39 HUe 40 huE 41 hUe 42 huE 43 hUe 44 hue 45 hue 46 hUE 47 HUE 48 huE 49 huE 50 HUe 51 hue 52 hue 53 hUe 54 huE 55 huE 56 hUE 57 HUE 

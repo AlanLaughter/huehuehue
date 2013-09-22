@@ -1,0 +1,46 @@
+70 F
+105 i
+122 z
+122 z
+
+66 B
+117 u
+122 z
+122 z
+
+start at 0
+iter by 10
+start loop (10 times)
+    move to 1
+    iter by 7 until 70 <--- F
+    move to 2
+    iter by 10 until 100 <--i
+    move to 3
+    iter by 12 until 120 <--z
+    move to 4
+    iter by 6 until 60 <----B
+    move to 5
+    iter by 11 until 110 <--u
+end loop
+move to 6
+iter by 100
+start loop (100 times)
+    move to 7
+    iter by 1
+    move to     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
