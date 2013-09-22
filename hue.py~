@@ -104,8 +104,8 @@ def evaluate(instructions):
                 tape[pointer] == 255
         #prints the ascii equivelent of current cell
         elif instr == "Hue" and not ignore: # . in BF
-            #sys.stdout.write(chr(tape[pointer]))
-            print chr(tape[pointer]),
+            sys.stdout.write(chr(tape[pointer]))
+            #print chr(tape[pointer]),
     
         #inputs character in current cell (doesn't work right)
         elif instr == "HuE" and not ignore: # , in BF

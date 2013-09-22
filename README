@@ -1,0 +1,18 @@
+The huehuehue tarpit was written in python because why the hell not, I'll probably do c later
+by Alan Laughter
+released under the GPL v.3
+hue is identical to brainfuck (for the moment) and is converted with the following table:
+
+HUE = ]
+hue = >
+huE = <
+hUe = +
+hUE = -
+Hue = .
+HuE = ,
+HUe = [
+
+the BFtHUE.py file converts bf to hue
+neither whitespace or organization of any kind matters
+comments are made with # because I like that thing
+

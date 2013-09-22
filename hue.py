@@ -2,16 +2,6 @@
 #hue interpreter v .1
 #by Alan Laughter
 #released under the GPL v.3
-#hue is identical to brainfuck (for the moment) and is converted with the following table:
-
-#HUE = ]
-#hue = >
-#huE = <
-#hUe = +
-#hUE = -
-#Hue = .
-#HuE = ,
-#HUe = [
 
 import sys, re
 import getch
