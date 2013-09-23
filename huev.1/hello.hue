@@ -1,0 +1,23 @@
+#comments now work
+#in hue code                                                  in bf code              what it does
+hUehUehUehUehUe hUehUehUehUehUe                               +++++ +++++             initialize counter (cell #0) to 10
+HUe                                                           [                       use loop to set the next four cells to 70/100/30/10
+    hue hUehUehUehUehUe hUehUe                                >+++++ ++               add  7 to cell #1
+    hue hUehUehUehUehUe hUehUehUehUehUe                       > +++++ +++++           add 10 to cell #2 
+    hue hUehUehUe                                             > +++                   add  3 to cell #3
+    hue hUe                                                   > +                     add  1 to cell #4
+    huEhuEhuEhuE hUE                                          <<<< -                  decrement counter (cell #0)
+HUE                                                           ]
+hue hUehUe Hue                                                > ++ .                  print 'H'
+hue hUe Hue                                                   > + .                   print 'e'
+hUehUehUehUehUe hUehUe Hue                                    +++++ ++ .              print 'l'
+Hue                                                           .                       print 'l'
+hUehUehUe Hue                                                 +++ .                   print 'o'
+hue hUehUe Hue                                                > ++ .                  print ' '
+huEhuE hUehUehUehUehUe hUehUehUehUehUe hUehUehUehUehUe Hue    << +++++ +++++ +++++ .  print 'W'
+hue Hue                                                       > .                     print 'o'
+hUehUehUe Hue                                                 +++ .                   print 'r'
+hUEhUEhUEhUEhUE hUE Hue                                       ----- - .               print 'l'
+hUEhUEhUEhUEhUE hUEhUEhUE Hue                                 ----- --- .             print 'd'
+hue hUe Hue                                                   > + .                   print '!'
+hue Hue                                                       > .                     print '\n'
